@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+.contents{width:100%; margin-top:42px; overflow: hidden;}
+.contents .cont{width:100%;}
+.contents .cont .cimg{width:100%; margin:0 auto;}
+.contents .cont h1{font-size:26px;margin:2%;}
+.contents .cont h2{font-size:24px;margin:2%;}
+.contents .cont p{width:100%;font-size:14px;margin-top:30px;color:gray;
+padding:20px;}
+
+
+
+
+
+
+
